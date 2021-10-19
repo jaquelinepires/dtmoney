@@ -23,12 +23,11 @@ O dt money é uma alternativa simples e eficaz para gerenciar suas finanças, pe
 Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
 - [ReactJS](https://reactjs.org/)
-- [React Router DOM](https://reacttraining.com/react-router/)
-- [Context API](https://reactjs.org/docs/context.html)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Styled Components](https://styled-components.com/)
 - [Polished](https://github.com/styled-components/polished)
 - [Axios](https://github.com/axios/axios)
-- [Miragejs](https://miragejs.com/tutorial/intro/)
+- [MirageJS](https://miragejs.com/tutorial/intro/)
 
 ---
 
